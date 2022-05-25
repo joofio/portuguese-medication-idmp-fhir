@@ -1,18 +1,86 @@
 ﻿XXYourComputableMyIGNameHere : Validation Results
 =========================================
 
-err = 1, warn = 1, info = 0
+err = 14, warn = 6, info = 0
 IG Publisher Version: 1.1.120
-Generated Wed May 25 15:58:11 UTC 2022. FHIR version 4.0.1 for OBSCDSS.fhir.uv.myig#0.1.0-test (canonical = http://xxsomewhere.org/fhir/myig)
- Build Errors : 5 / 1 / 0
- /github/workspace/input/myig : 1 / 0 / 1
+Generated Wed May 25 16:00:10 UTC 2022. FHIR version 4.0.1 for OBSCDSS.fhir.uv.myig#0.1.0-test (canonical = http://xxsomewhere.org/fhir/myig)
+ Build Errors : 45 / 1 / 0
+ /github/workspace/fsh-generated/resources/StructureDefinition-AMPModel : 3 / 1 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel : 3 / 1 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct : 2 / 1 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel : 3 / 1 / 1
+ /github/workspace/fsh-generated/resources/StructureDefinition-VMPModel : 3 / 1 / 1
+ /github/workspace/input/myig : 0 / 0 / 1
 </table>
 == n/a ==
 WARNING: ImplementationGuide.id: The Implementation Guide Resource id should be OBSCDSS.fhir.uv.myig
+ERROR: /github/workspace/output/StructureDefinition-AMPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AMPPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PharmaceuticalProduct.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPGroupModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-VMPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
 ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 139, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
 ERROR: /github/workspace/output/index.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 139, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
 ERROR: /github/workspace/output/toc.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 139, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
 ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/div/div/div/table/tbody/tr/td/a at Line 179, column 2425: The link 'downloads.html' for "3 Downloads" cannot be resolved
 ERROR: /github/workspace/output/workflow.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 139, column 9: The link 'downloads.html' for "Downloads" cannot be resolved
+== fsh-generated/resources/StructureDefinition-AMPModel.json ==
+ERROR: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/AMPModel'): Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPModel)
+ERROR: StructureDefinition/AMPModel: StructureDefinition.baseDefinition: Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve
+WARNING: StructureDefinition/AMPModel: StructureDefinition: Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential
+ERROR: /github/workspace/fsh-generated/resources/StructureDefinition-AMPModel: URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPModel vs http://hl7.org/fhir/us/example/StructureDefinition/AMPModel
+== fsh-generated/resources/StructureDefinition-AMPPModel.json ==
+ERROR: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel'): Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel)
+ERROR: StructureDefinition/AMPPModel: StructureDefinition.baseDefinition: Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve
+WARNING: StructureDefinition/AMPPModel: StructureDefinition: Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential
+ERROR: /github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel: URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPPModel vs http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel
+== fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json ==
+ERROR: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct'): Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/PharmaceuticalProduct) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct)
+WARNING: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct'): The Implementation Guide contains no examples for this profile
+ERROR: /github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct: URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/PharmaceuticalProduct vs http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct
+== fsh-generated/resources/StructureDefinition-VMPGroupModel.json ==
+ERROR: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel'): Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPGroupModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel)
+ERROR: StructureDefinition/VMPGroupModel: StructureDefinition.baseDefinition: Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve
+WARNING: StructureDefinition/VMPGroupModel: StructureDefinition: Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential
+ERROR: /github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel: URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPGroupModel vs http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel
+== fsh-generated/resources/StructureDefinition-VMPModel.json ==
+ERROR: StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/VMPModel'): Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPModel)
+ERROR: StructureDefinition/VMPModel: StructureDefinition.baseDefinition: Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve
+WARNING: StructureDefinition/VMPModel: StructureDefinition: Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential
+ERROR: /github/workspace/fsh-generated/resources/StructureDefinition-VMPModel: URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPModel vs http://hl7.org/fhir/us/example/StructureDefinition/VMPModel
 == input/myig.xml ==
-ERROR: ImplementationGuide/xxexample.fhir.uv.myig: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)
