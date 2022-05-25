@@ -1,5 +1,40 @@
 [
   {
+    "id": "AMPModel",
+    "type": "StructureDefinition",
+    "url": "http://hl7.org/fhir/us/example/StructureDefinition/AMPModel",
+    "version": "0.1.0-test",
+    "name": "AMPModel"
+  },
+  {
+    "id": "AMPPModel",
+    "type": "StructureDefinition",
+    "url": "http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel",
+    "version": "0.1.0-test",
+    "name": "AMPPModel"
+  },
+  {
+    "id": "PharmaceuticalProduct",
+    "type": "StructureDefinition",
+    "url": "http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct",
+    "version": "0.1.0-test",
+    "name": "PharmaceuticalProduct"
+  },
+  {
+    "id": "VMPGroupModel",
+    "type": "StructureDefinition",
+    "url": "http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel",
+    "version": "0.1.0-test",
+    "name": "VMPGroupModel"
+  },
+  {
+    "id": "VMPModel",
+    "type": "StructureDefinition",
+    "url": "http://hl7.org/fhir/us/example/StructureDefinition/VMPModel",
+    "version": "0.1.0-test",
+    "name": "VMPModel"
+  },
+  {
     "id": "xxexample.fhir.uv.myig",
     "type": "ImplementationGuide",
     "url": "http://xxsomewhere.org/fhir/myig/ImplementationGuide/xxexample.fhir.uv.myig",

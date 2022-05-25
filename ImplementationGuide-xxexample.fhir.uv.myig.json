@@ -11,7 +11,7 @@
   "title": "xxYour User Friendly Name for MyIG Here",
   "status": "draft",
   "experimental": false,
-  "date": "2022-05-25T15:57:56+00:00",
+  "date": "2022-05-25T15:59:43+00:00",
   "publisher": "xxxYour Work Group",
   "contact": [
     {
@@ -373,6 +373,73 @@
           }
         ],
         "url": "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter"
+      }
+    ],
+    "resource": [
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "StructureDefinition:logical"
+          }
+        ],
+        "reference": {
+          "reference": "StructureDefinition/VMPGroupModel"
+        },
+        "name": "VMP Group logical model",
+        "description": "VMP Group logical model"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "StructureDefinition:resource"
+          }
+        ],
+        "reference": {
+          "reference": "StructureDefinition/PharmaceuticalProduct"
+        },
+        "name": "Pharmaceutical Product Profile",
+        "description": "Pharmaceutical Product Profile"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "StructureDefinition:logical"
+          }
+        ],
+        "reference": {
+          "reference": "StructureDefinition/AMPModel"
+        },
+        "name": "AMP logical model",
+        "description": "AMP logical model"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "StructureDefinition:logical"
+          }
+        ],
+        "reference": {
+          "reference": "StructureDefinition/AMPPModel"
+        },
+        "name": "AMPP logical model",
+        "description": "AMPP logical model"
+      },
+      {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
+            "valueString": "StructureDefinition:logical"
+          }
+        ],
+        "reference": {
+          "reference": "StructureDefinition/VMPModel"
+        },
+        "name": "VMP logical model",
+        "description": "VMP logical model"
       }
     ],
     "page": {

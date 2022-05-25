@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<!-- broken links = errors = 1, warn = 1, info = 0, 5 -->
+<!-- broken links = errors = 14, warn = 6, info = 0, 45 -->
 <head>
   <title>XXYourComputableMyIGNameHere : Validation Results</title>
   <link href="fhir.css" rel="stylesheet"/>
@@ -36,7 +36,7 @@
 </head>
 <body style="margin: 20px; background-color: #ffffff">
  <h1>Validation Results for XXYourComputableMyIGNameHere</h1>
- <p>Generated Wed May 25 15:58:11 UTC 2022, FHIR version 4.0.1 for OBSCDSS.fhir.uv.myig#0.1.0-test (canonical = <a href="http://xxsomewhere.org/fhir/myig">http://xxsomewhere.org/fhir/myig</a> (<a href="http://xxsomewhere.org/fhir/myig/history.html">history</a>)). See <a href="qa.min.html">Errors Only</a></p>
+ <p>Generated Wed May 25 16:00:09 UTC 2022, FHIR version 4.0.1 for OBSCDSS.fhir.uv.myig#0.1.0-test (canonical = <a href="http://xxsomewhere.org/fhir/myig">http://xxsomewhere.org/fhir/myig</a> (<a href="http://xxsomewhere.org/fhir/myig/history.html">history</a>)). See <a href="qa.min.html">Errors Only</a></p>
 <table class="grid"> <tr><td colspan=2><b>Quality Checks</b></td></tr>
  <tr><td>Publisher Version:</td><td><span>IG Publisher Version: v1.1.120</span></td></tr>
  <tr><td>Publication Code:</td><td>n/a<span style="color: maroon; font-weight: bold"> </span>. PackageId = OBSCDSS.fhir.uv.myig, Canonical = http://xxsomewhere.org/fhir/myig</td></tr>
@@ -53,17 +53,32 @@
  <tr><td>HTA Analysis:</td><td><i>Non-HL7 Igs are exempt from terminology dependency analysis</i></td></tr>
  <tr><td>R5 Dependencies:</td><td><span style="color: grey">(none)</span></td></tr>
  <tr><td>Previous Version Comparison:</td><td> Unable to compare with previous version: Unable to find version history at http://xxsomewhere.org/fhir/myig (Problem #1 with package-list.json at http://xxsomewhere.org/fhir/myig: xxsomewhere.org)</td></tr>
- <tr><td>Summary:</td><td> errors = 1, warn = 1, info = 0, broken links = 5</td></tr>
+ <tr><td>Summary:</td><td> errors = 14, warn = 6, info = 0, broken links = 45</td></tr>
 </table>
  <table class="grid">
    <tr>
      <td><b>Filename</b></td><td><b>Errors</b></td><td><b>Warnings</b></td><td><b>Hints</b></td>
    </tr>
    <tr style="background-color: #ffcccc">
-     <td><a href="#internal"><b>Build Errors</b></a></td><td><b>5</b></td><td><b>1</b></td><td><b>0</b></td>
+     <td><a href="#internal"><b>Build Errors</b></a></td><td><b>45</b></td><td><b>1</b></td><td><b>0</b></td>
    </tr>
    <tr style="background-color: #ffcccc">
-     <td><a href="#_github_workspace_input_myig"><b>/github/workspace/input/myig</b></a></td><td><b>1</b></td><td><b>0</b></td><td><b>0</b></td>
+     <td><a href="#_github_workspace_fsh-generated_resources_StructureDefinition-AMPModel"><b>/github/workspace/fsh-generated/resources/StructureDefinition-AMPModel</b></a></td><td><b>3</b></td><td><b>1</b></td><td><b>0</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><a href="#_github_workspace_fsh-generated_resources_StructureDefinition-AMPPModel"><b>/github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel</b></a></td><td><b>3</b></td><td><b>1</b></td><td><b>0</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><a href="#_github_workspace_fsh-generated_resources_StructureDefinition-PharmaceuticalProduct"><b>/github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct</b></a></td><td><b>2</b></td><td><b>1</b></td><td><b>0</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><a href="#_github_workspace_fsh-generated_resources_StructureDefinition-VMPGroupModel"><b>/github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel</b></a></td><td><b>3</b></td><td><b>1</b></td><td><b>0</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><a href="#_github_workspace_fsh-generated_resources_StructureDefinition-VMPModel"><b>/github/workspace/fsh-generated/resources/StructureDefinition-VMPModel</b></a></td><td><b>3</b></td><td><b>1</b></td><td><b>0</b></td>
+   </tr>
+   <tr style="background-color: #EFFFEF">
+     <td><a href="#_github_workspace_input_myig"><b>/github/workspace/input/myig</b></a></td><td><b>0</b></td><td><b>0</b></td><td><b>0</b></td>
    </tr>
 </table>
 <hr/>
@@ -73,6 +88,126 @@
  <table class="grid">
    <tr style="background-color: #ffebcc">
      <td><b>ImplementationGuide.id</b></td><td><b>warning</b></td><td title=""><b>The Implementation Guide Resource id should be OBSCDSS.fhir.uv.myig</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel-definitions.html#l195">output/StructureDefinition-AMPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel-examples.html#l195">output/StructureDefinition-AMPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel-mappings.html#l195">output/StructureDefinition-AMPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel.html#l195">output/StructureDefinition-AMPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel.profile.history.html#l195">output/StructureDefinition-AMPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel.profile.json.html#l195">output/StructureDefinition-AMPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel.profile.ttl.html#l195">output/StructureDefinition-AMPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPModel.profile.xml.html#l195">output/StructureDefinition-AMPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel-definitions.html#l195">output/StructureDefinition-AMPPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel-examples.html#l195">output/StructureDefinition-AMPPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel-mappings.html#l195">output/StructureDefinition-AMPPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel.html#l195">output/StructureDefinition-AMPPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel.profile.history.html#l195">output/StructureDefinition-AMPPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel.profile.json.html#l195">output/StructureDefinition-AMPPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel.profile.ttl.html#l195">output/StructureDefinition-AMPPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-AMPPModel.profile.xml.html#l195">output/StructureDefinition-AMPPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct-definitions.html#l195">output/StructureDefinition-PharmaceuticalProduct-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct-examples.html#l195">output/StructureDefinition-PharmaceuticalProduct-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct-mappings.html#l195">output/StructureDefinition-PharmaceuticalProduct-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct.html#l195">output/StructureDefinition-PharmaceuticalProduct.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct.profile.history.html#l195">output/StructureDefinition-PharmaceuticalProduct.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct.profile.json.html#l195">output/StructureDefinition-PharmaceuticalProduct.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct.profile.ttl.html#l195">output/StructureDefinition-PharmaceuticalProduct.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-PharmaceuticalProduct.profile.xml.html#l195">output/StructureDefinition-PharmaceuticalProduct.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel-definitions.html#l195">output/StructureDefinition-VMPGroupModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel-examples.html#l195">output/StructureDefinition-VMPGroupModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel-mappings.html#l195">output/StructureDefinition-VMPGroupModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel.html#l195">output/StructureDefinition-VMPGroupModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel.profile.history.html#l195">output/StructureDefinition-VMPGroupModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel.profile.json.html#l195">output/StructureDefinition-VMPGroupModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel.profile.ttl.html#l195">output/StructureDefinition-VMPGroupModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPGroupModel.profile.xml.html#l195">output/StructureDefinition-VMPGroupModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel-definitions.html#l195">output/StructureDefinition-VMPModel-definitions.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel-examples.html#l195">output/StructureDefinition-VMPModel-examples.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel-mappings.html#l195">output/StructureDefinition-VMPModel-mappings.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel.html#l195">output/StructureDefinition-VMPModel.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel.profile.history.html#l195">output/StructureDefinition-VMPModel.profile.history.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 143, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel.profile.json.html#l195">output/StructureDefinition-VMPModel.profile.json.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel.profile.ttl.html#l195">output/StructureDefinition-VMPModel.profile.ttl.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b><a href="StructureDefinition-VMPModel.profile.xml.html#l195">output/StructureDefinition-VMPModel.profile.xml.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 147, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
    </tr>
    <tr style="background-color: #ffcccc">
      <td><b><a href="artifacts.html#l194">output/artifacts.html#/html/body/div/div/nav/div/div/ul/li/ul/li/a at Line 139, column 9</a></b></td><td><b>error</b></td><td><b>The link 'downloads.html' for &quot;Downloads&quot; cannot be resolved</b></td>
@@ -91,15 +226,119 @@
    </tr>
 </table>
 <hr/>
-<a name="_github_workspace_input_myig"> </a>
-<h2><a href="ImplementationGuide-xxexample.fhir.uv.myig.html">input/myig.xml</a> <span id="svi1" class="toggle" onclick="toggle('vi1')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi1')">(0)</span></h2>
- <div style="border: 1px grey solid; display: none" id="vi1"></div>
+<a name="_github_workspace_fsh-generated_resources_StructureDefinition-AMPModel"> </a>
+<h2><a href="StructureDefinition-AMPModel.html">fsh-generated/resources/StructureDefinition-AMPModel.json</a> <span id="svi1" class="toggle" onclick="toggle('vi1')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi1')">(1)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi1"><ul style="font-size: 7px"><li>StructureDefinition: Validated against <a href="http://hl7.org/fhir">fhir</a>.<a href="http://hl7.org/fhir/R4/structuredefinition.html">StructureDefinition</a></li></ul>
+</div>
  <table class="grid">
    <tr>
      <td><b>Path</b></td><td><b>Severity</b></td><td><b>Message</b></td>
    </tr>
    <tr style="background-color: #ffcccc">
-     <td><b>ImplementationGuide.definition</b></td><td><b>error</b></td><td title="Validation_VAL_Profile_Minimum"><b>ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)</b></td>
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/AMPModel')</b></td><td><b>error</b></td><td title="RESOURCE_CANONICAL_MISMATCH"><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.baseDefinition</b></td><td><b>error</b></td><td title="TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE"><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffebcc">
+     <td><b>StructureDefinition</b></td><td><b>warning</b></td><td title=""><b>Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>fsh-generated/resources/StructureDefinition-AMPModel</b></td><td><b>error</b></td><td title=""><b>URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPModel vs http://hl7.org/fhir/us/example/StructureDefinition/AMPModel</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="_github_workspace_fsh-generated_resources_StructureDefinition-AMPPModel"> </a>
+<h2><a href="StructureDefinition-AMPPModel.html">fsh-generated/resources/StructureDefinition-AMPPModel.json</a> <span id="svi2" class="toggle" onclick="toggle('vi2')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi2')">(1)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi2"><ul style="font-size: 7px"><li>StructureDefinition: Validated against <a href="http://hl7.org/fhir">fhir</a>.<a href="http://hl7.org/fhir/R4/structuredefinition.html">StructureDefinition</a></li></ul>
+</div>
+ <table class="grid">
+   <tr>
+     <td><b>Path</b></td><td><b>Severity</b></td><td><b>Message</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel')</b></td><td><b>error</b></td><td title="RESOURCE_CANONICAL_MISMATCH"><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.baseDefinition</b></td><td><b>error</b></td><td title="TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE"><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffebcc">
+     <td><b>StructureDefinition</b></td><td><b>warning</b></td><td title=""><b>Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>fsh-generated/resources/StructureDefinition-AMPPModel</b></td><td><b>error</b></td><td title=""><b>URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPPModel vs http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="_github_workspace_fsh-generated_resources_StructureDefinition-PharmaceuticalProduct"> </a>
+<h2><a href="StructureDefinition-PharmaceuticalProduct.html">fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json</a> <span id="svi3" class="toggle" onclick="toggle('vi3')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi3')">(1)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi3"><ul style="font-size: 7px"><li>StructureDefinition: Validated against <a href="http://hl7.org/fhir">fhir</a>.<a href="http://hl7.org/fhir/R4/structuredefinition.html">StructureDefinition</a></li></ul>
+</div>
+ <table class="grid">
+   <tr>
+     <td><b>Path</b></td><td><b>Severity</b></td><td><b>Message</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct')</b></td><td><b>error</b></td><td title="RESOURCE_CANONICAL_MISMATCH"><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/PharmaceuticalProduct) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct)</b></td>
+   </tr>
+   <tr style="background-color: #ffebcc">
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct')</b></td><td><b>warning</b></td><td title=""><b>The Implementation Guide contains no examples for this profile</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>fsh-generated/resources/StructureDefinition-PharmaceuticalProduct</b></td><td><b>error</b></td><td title=""><b>URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/PharmaceuticalProduct vs http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="_github_workspace_fsh-generated_resources_StructureDefinition-VMPGroupModel"> </a>
+<h2><a href="StructureDefinition-VMPGroupModel.html">fsh-generated/resources/StructureDefinition-VMPGroupModel.json</a> <span id="svi4" class="toggle" onclick="toggle('vi4')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi4')">(1)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi4"><ul style="font-size: 7px"><li>StructureDefinition: Validated against <a href="http://hl7.org/fhir">fhir</a>.<a href="http://hl7.org/fhir/R4/structuredefinition.html">StructureDefinition</a></li></ul>
+</div>
+ <table class="grid">
+   <tr>
+     <td><b>Path</b></td><td><b>Severity</b></td><td><b>Message</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel')</b></td><td><b>error</b></td><td title="RESOURCE_CANONICAL_MISMATCH"><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPGroupModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.baseDefinition</b></td><td><b>error</b></td><td title="TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE"><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffebcc">
+     <td><b>StructureDefinition</b></td><td><b>warning</b></td><td title=""><b>Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>fsh-generated/resources/StructureDefinition-VMPGroupModel</b></td><td><b>error</b></td><td title=""><b>URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPGroupModel vs http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="_github_workspace_fsh-generated_resources_StructureDefinition-VMPModel"> </a>
+<h2><a href="StructureDefinition-VMPModel.html">fsh-generated/resources/StructureDefinition-VMPModel.json</a> <span id="svi5" class="toggle" onclick="toggle('vi5')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi5')">(1)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi5"><ul style="font-size: 7px"><li>StructureDefinition: Validated against <a href="http://hl7.org/fhir">fhir</a>.<a href="http://hl7.org/fhir/R4/structuredefinition.html">StructureDefinition</a></li></ul>
+</div>
+ <table class="grid">
+   <tr>
+     <td><b>Path</b></td><td><b>Severity</b></td><td><b>Message</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.where(url = 'http://hl7.org/fhir/us/example/StructureDefinition/VMPModel')</b></td><td><b>error</b></td><td title="RESOURCE_CANONICAL_MISMATCH"><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>StructureDefinition.baseDefinition</b></td><td><b>error</b></td><td title="TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE"><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffebcc">
+     <td><b>StructureDefinition</b></td><td><b>warning</b></td><td title=""><b>Unable to find base http://hl7.org/fhir/StructureDefinition/Base for StructureDefinition, so can't check the differential</b></td>
+   </tr>
+   <tr style="background-color: #ffcccc">
+     <td><b>fsh-generated/resources/StructureDefinition-VMPModel</b></td><td><b>error</b></td><td title=""><b>URL Mismatch http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPModel vs http://hl7.org/fhir/us/example/StructureDefinition/VMPModel</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="_github_workspace_input_myig"> </a>
+<h2><a href="ImplementationGuide-xxexample.fhir.uv.myig.html">input/myig.xml</a> <span id="svi6" class="toggle" onclick="toggle('vi6')">Show Validation Information</span> <span class="vcount" onclick="toggle('vi6')">(0)</span></h2>
+ <div style="border: 1px grey solid; display: none" id="vi6"></div>
+ <table class="grid">
+   <tr>
+     <td>&check;</td>
    </tr>
 </table>
 <a name="suppressed"> </a>
@@ -107,11 +346,40 @@
 <p>No suppressed messsages</p><a name="sorted"> </a>
 <p><b>Errors sorted by type</b></p>
 <hr/>
-<a name="Validation_VAL_Profile_Minimum"> </a>
-<h2>Validation_VAL_Profile_Minimum</h2>
+<a name="RESOURCE_CANONICAL_MISMATCH"> </a>
+<h2>RESOURCE_CANONICAL_MISMATCH</h2>
  <table class="grid">
    <tr style="background-color: #ffeeee">
-     <td><a href="ImplementationGuide-xxexample.fhir.uv.myig.html">input/myig.xml</a></td><td><b>ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide)</b></td>
+     <td><a href="StructureDefinition-AMPModel.html">fsh-generated/resources/StructureDefinition-AMPModel.json</a></td><td><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-AMPPModel.html">fsh-generated/resources/StructureDefinition-AMPPModel.json</a></td><td><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-AMPPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/AMPPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/AMPPModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-PharmaceuticalProduct.html">fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json</a></td><td><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-PharmaceuticalProduct.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/PharmaceuticalProduct) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/PharmaceuticalProduct)</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-VMPGroupModel.html">fsh-generated/resources/StructureDefinition-VMPGroupModel.json</a></td><td><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPGroupModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPGroupModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPGroupModel)</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-VMPModel.html">fsh-generated/resources/StructureDefinition-VMPModel.json</a></td><td><b>Conformance resource /github/workspace/fsh-generated/resources/StructureDefinition-VMPModel.json - the canonical URL (http://xxsomewhere.org/fhir/myig/StructureDefinition/VMPModel) does not match the URL (http://hl7.org/fhir/us/example/StructureDefinition/VMPModel)</b></td>
+   </tr>
+</table>
+<hr/>
+<a name="TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE"> </a>
+<h2>TYPE_SPECIFIC_CHECKS_DT_CANONICAL_RESOLVE</h2>
+ <table class="grid">
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-AMPModel.html">fsh-generated/resources/StructureDefinition-AMPModel.json</a></td><td><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-AMPPModel.html">fsh-generated/resources/StructureDefinition-AMPPModel.json</a></td><td><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-VMPGroupModel.html">fsh-generated/resources/StructureDefinition-VMPGroupModel.json</a></td><td><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
+   </tr>
+   <tr style="background-color: #ffeeee">
+     <td><a href="StructureDefinition-VMPModel.html">fsh-generated/resources/StructureDefinition-VMPModel.json</a></td><td><b>Canonical URL 'http://hl7.org/fhir/StructureDefinition/Base' does not resolve</b></td>
    </tr>
 </table>
 </body>
