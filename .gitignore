@@ -27,3 +27,9 @@ Thumbs.db
 .java-version
 .vscode/
 *.jar
+
+
+###info
+*.csv
+*.mdb
+*.xlsx
