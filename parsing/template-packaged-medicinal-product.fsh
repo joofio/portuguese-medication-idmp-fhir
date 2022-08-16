@@ -24,8 +24,8 @@ Usage:        #example
 {% endif %}
 {% if row["Titular_AIM_descr"]|string !="nan" %}
 
-* manufacturer.identifier.value = 0 //wrong
-* manufacturer.identifier.display = "{{ row["Titular_AIM_descr"] }}"
+* manufacturer.identifier.value = "0" //wrong
+* manufacturer.display = "{{ row["Titular_AIM_descr"] }}"
 
 {% else %}
 // ERROR[3]  - no Manufacturer for ID:{{ row["EMB_ID"] }}
