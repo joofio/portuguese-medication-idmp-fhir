@@ -43,13 +43,16 @@ Usage:        #example
 // ERROR[5]  - no Native Dose Form for ID:{{ row["EMB_ID"] }}
 {% endif %}
 
-{% for idx in range(0,row["DCIPT_descr_parse"].count(";")+1) -%} 
+{% for idx in range(0,row["DCIPT_descr_parse"].count(";")+1) %} 
 
 * ingredient[+].strength.numerator = {{ row["numerator_value"].split(";")[idx] }} http://unitsofmeasure.org#{{ row["numerator_unit"].split(";")[idx] }}
 
-* ingredient[=].strength.denominator = 1 http://unitsofmeasure.org#U {# //what to do here? #}
+* ingredient[=].strength.denominator = 1 http://unitsofmeasure.org#U  
+{#
+// what to do in ingredint? 
+#}
 * ingredient[=].itemCodeableConcept.text = "{{ row["DCIPT_descr_parse"].split(";")[idx] }}"
-{%- endfor %}
+{% endfor %}
 
 {#
 //* ingredient.itemCodeableConcept.coding.code = #amlodipine
