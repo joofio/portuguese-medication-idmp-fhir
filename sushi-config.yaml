@@ -7,8 +7,8 @@ canonical: http://hl7.org/fhir/us/example
 name: OBSCDSS
 status: draft
 version: 0.1.0
-fhirVersion: 4.0.1
-copyrightYear: 2021+
+fhirVersion: 5.0.0-snapshot1
+copyrightYear: 2022+
 releaseLabel: ci-build
 
 # ╭────────────────────────────────────────────menu.xml────────────────────────────────────────────╮

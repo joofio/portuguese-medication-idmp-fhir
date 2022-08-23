@@ -69,7 +69,6 @@ Description: "PT Identifiable Product Profile"
 
 * extension[jurisdiction].valueCodeableConcept = urn:iso:std:iso:3166#PT
 
-
 * code.coding.system 1..1
 
 * code.coding ^slicing.discriminator.type = #pattern
