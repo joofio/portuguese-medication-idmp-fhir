@@ -26,13 +26,13 @@ Usage:        #example
 
 {% if row["edqm_dose_form_id"]|string !="nan" %}
 
-* definitional.doseForm.coding[EDQM] = #{{ row["edqm_dose_form_id"]|int }} "{{ row["edqm_dose_form_descr_en"] }}"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#{{ row["edqm_dose_form_id"]|int }} "{{ row["edqm_dose_form_descr_en"] }}"
 {% else %}
 // ERROR[4]  - no EDQM Dose Form for ID:{{ row["EMB_ID"] }}
 {% endif %}
 {% if row["edqm_dose_form_id"]|string !="nan" %}
 
-* definitional.doseForm.coding[Other] = #{{ row["Forma_farm_id"]|int }} "{{ row["form_farm_descr"] }}"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#{{ row["Forma_farm_id"]|int }} "{{ row["form_farm_descr"] }}"
 {% else %}
 // ERROR[5]  - no Native Dose Form for ID:{{ row["EMB_ID"] }}
 {% endif %}
@@ -40,8 +40,8 @@ Usage:        #example
 {% for idx in range(0,row["DCIPT_descr_parse"].count(";")+1) %} 
 
 * definitional.ingredient[+].strengthQuantity = {{ row["numerator_value"].split(";")[idx] }} http://unitsofmeasure.org#{{ row["numerator_unit"].split(";")[idx] }}
-* definitional.ingredient.item.concept.text = "{{ row["DCIPT_descr_parse"].split(";")[idx] }}"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "{{ row["DCIPT_descr_parse"].split(";")[idx] }}"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 {% endfor %}
 
 {% if row["QUANT_TOT"]|string !="nan" %}

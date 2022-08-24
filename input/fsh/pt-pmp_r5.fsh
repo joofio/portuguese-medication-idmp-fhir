@@ -15,15 +15,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -49,15 +49,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -83,15 +83,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -117,15 +117,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -151,15 +151,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -185,15 +185,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -219,15 +219,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -253,15 +253,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -287,15 +287,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -321,15 +321,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -355,15 +355,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -389,15 +389,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -423,15 +423,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -457,15 +457,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -491,15 +491,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -525,15 +525,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -559,15 +559,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -593,15 +593,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -627,15 +627,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -661,15 +661,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -695,15 +695,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -729,15 +729,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -763,15 +763,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -797,15 +797,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -831,15 +831,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -865,15 +865,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -899,15 +899,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -933,15 +933,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -967,15 +967,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1001,15 +1001,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1035,15 +1035,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1069,15 +1069,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -1103,15 +1103,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1137,15 +1137,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1171,15 +1171,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -1205,15 +1205,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1239,15 +1239,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1273,15 +1273,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -1307,15 +1307,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1341,15 +1341,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1375,15 +1375,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -1409,15 +1409,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1443,15 +1443,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1477,15 +1477,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1511,15 +1511,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1545,15 +1545,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1579,15 +1579,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1613,15 +1613,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1647,15 +1647,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1681,15 +1681,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1715,15 +1715,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1749,15 +1749,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1783,15 +1783,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1817,15 +1817,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1851,15 +1851,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1885,15 +1885,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -1919,15 +1919,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -1953,15 +1953,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -1987,15 +1987,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2021,15 +2021,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2055,15 +2055,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2089,15 +2089,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2123,15 +2123,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -2157,15 +2157,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2191,15 +2191,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2225,15 +2225,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -2259,15 +2259,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2293,15 +2293,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2327,15 +2327,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -2361,15 +2361,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2395,15 +2395,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2429,15 +2429,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -2463,15 +2463,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2497,15 +2497,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2531,15 +2531,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2565,15 +2565,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2599,15 +2599,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2633,15 +2633,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2667,15 +2667,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -2701,15 +2701,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2735,15 +2735,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2769,15 +2769,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2803,15 +2803,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2837,15 +2837,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -2871,15 +2871,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -2905,15 +2905,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -2939,15 +2939,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -2973,15 +2973,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3007,15 +3007,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3041,15 +3041,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3075,15 +3075,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3109,15 +3109,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3143,15 +3143,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3177,15 +3177,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3211,15 +3211,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3245,15 +3245,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3279,15 +3279,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3313,15 +3313,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3347,15 +3347,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3381,15 +3381,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3415,15 +3415,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3449,15 +3449,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3483,15 +3483,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3517,15 +3517,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3551,15 +3551,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3585,15 +3585,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3619,15 +3619,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3653,15 +3653,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3687,15 +3687,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3721,15 +3721,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3755,15 +3755,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3789,15 +3789,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -3823,15 +3823,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3857,15 +3857,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -3891,15 +3891,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -3925,15 +3925,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -3959,15 +3959,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -3993,15 +3993,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4027,15 +4027,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -4061,15 +4061,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -4095,15 +4095,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4129,15 +4129,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -4163,15 +4163,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4197,15 +4197,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4231,15 +4231,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4265,15 +4265,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -4299,15 +4299,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -4333,15 +4333,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -4367,15 +4367,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4401,15 +4401,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -4435,15 +4435,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4469,15 +4469,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4503,15 +4503,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -4537,15 +4537,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -4571,15 +4571,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4605,15 +4605,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -4639,15 +4639,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -4673,15 +4673,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4707,15 +4707,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4741,15 +4741,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4775,15 +4775,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4809,15 +4809,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4843,15 +4843,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4877,15 +4877,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4911,15 +4911,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -4945,15 +4945,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -4979,15 +4979,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5013,15 +5013,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5047,15 +5047,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5081,15 +5081,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5115,15 +5115,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5149,15 +5149,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5183,15 +5183,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5217,15 +5217,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5251,15 +5251,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5285,15 +5285,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5319,15 +5319,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5353,15 +5353,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5387,15 +5387,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5421,15 +5421,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5455,15 +5455,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5489,15 +5489,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5523,15 +5523,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5557,15 +5557,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5591,15 +5591,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5625,15 +5625,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5659,15 +5659,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5693,15 +5693,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5727,15 +5727,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5761,15 +5761,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5795,15 +5795,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5829,15 +5829,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5863,15 +5863,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5897,15 +5897,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -5931,15 +5931,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5965,15 +5965,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -5999,15 +5999,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -6033,15 +6033,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -6067,15 +6067,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -6101,15 +6101,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6135,15 +6135,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -6169,15 +6169,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -6203,15 +6203,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -6237,15 +6237,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -6271,15 +6271,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6305,15 +6305,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -6339,15 +6339,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -6373,15 +6373,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 84 'units'
 
@@ -6407,15 +6407,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -6441,15 +6441,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 250 'units'
 
@@ -6475,15 +6475,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -6509,15 +6509,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 250 'units'
 
@@ -6543,15 +6543,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 500 'units'
 
@@ -6577,15 +6577,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -6611,15 +6611,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6645,15 +6645,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -6679,15 +6679,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -6713,15 +6713,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 84 'units'
 
@@ -6747,15 +6747,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 15 'units'
 
@@ -6781,15 +6781,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6815,15 +6815,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6849,15 +6849,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -6883,15 +6883,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -6917,15 +6917,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -6951,15 +6951,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -6985,15 +6985,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7019,15 +7019,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -7053,15 +7053,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7087,15 +7087,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7121,15 +7121,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -7155,15 +7155,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -7189,15 +7189,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -7223,15 +7223,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7257,15 +7257,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -7291,15 +7291,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -7325,15 +7325,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -7359,15 +7359,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7393,15 +7393,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7427,15 +7427,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7461,15 +7461,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7495,15 +7495,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7529,15 +7529,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7563,15 +7563,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7597,15 +7597,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -7631,15 +7631,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -7665,15 +7665,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7699,15 +7699,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -7733,15 +7733,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 15 'units'
 
@@ -7767,15 +7767,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -7801,15 +7801,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -7835,15 +7835,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -7869,15 +7869,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -7903,15 +7903,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -7937,15 +7937,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -7971,15 +7971,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 98 'units'
 
@@ -8005,15 +8005,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -8039,15 +8039,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -8073,15 +8073,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
@@ -8107,15 +8107,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -8141,15 +8141,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -8175,15 +8175,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -8209,15 +8209,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 98 'units'
 
@@ -8243,15 +8243,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 100 'units'
 
@@ -8277,15 +8277,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -8311,15 +8311,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
 
@@ -8345,15 +8345,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -8379,15 +8379,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -8413,15 +8413,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -8447,15 +8447,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
@@ -8481,15 +8481,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 15 'units'
 
@@ -8515,15 +8515,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -8549,15 +8549,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -8583,15 +8583,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 50 'units'
 
@@ -8617,17 +8617,95 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-194922
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-194922"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #194922 "Carzap Am 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Carzap Am 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-194924
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-194924"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #194924 "Carzap Am 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Carzap Am 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -8651,15 +8729,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -8685,15 +8763,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -8719,15 +8797,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 90 'units'
 
@@ -8753,15 +8831,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
@@ -8787,15 +8865,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -8821,15 +8899,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -8855,15 +8933,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -8889,15 +8967,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -8923,15 +9001,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -8957,15 +9035,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -8991,15 +9069,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9025,15 +9103,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -9059,15 +9137,391 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2013884
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 8 mg Comprimido Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2013884"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2013884 "Carzap Am 5 mg + 8 mg Comprimido Blister - 28 unidade(s)"
+
+* name = "Carzap Am 5 mg + 8 mg Comprimido Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2013886
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2013886"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2013886 "Carzap Am 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Carzap Am 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2013903
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 10 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2013903"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2013903 "Carzap Am 10 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+
+* name = "Carzap Am 10 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2013905
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2013905"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2013905 "Carzap Am 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Carzap Am 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB;C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2026137
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2026137"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2026137 "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* name = "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2026144
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2026144"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2026144 "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* name = "Triveram 40 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 40 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2026154
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2026154"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2026154 "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* name = "Triveram 20 mg + 10 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2026159
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 20 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2026159"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2026159 "Triveram 20 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* name = "Triveram 20 mg + 10 mg + 10 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2026173
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2026173"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2026173 "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* name = "Triveram 20 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 30 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
@@ -9093,15 +9547,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9127,17 +9581,95 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2052072
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Tamayra 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2052072"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2052072 "Tamayra 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Tamayra 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2052076
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Tamayra 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2052076"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2052076 "Tamayra 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Tamayra 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -9161,15 +9693,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -9195,15 +9727,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9229,17 +9761,373 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2068115
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 10 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2068115"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2068115 "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 10 unidade(s)"
+
+* name = "Triveram 10 mg + 5 mg + 5 mg Comprimido revestido por película Recipiente para comprimidos - 10 unidade(s)"
+
+* medicineClassification.classification = #C10BX11
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10221000 "Film-coated tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#39 "Comprimido revestido por película"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Atorvastatina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Perindopril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 10 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083814
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083814"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083814 "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083815
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083815"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083815 "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083847
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083847"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083847 "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083849
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083849"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083849 "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083886
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083886"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083886 "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083889
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083889"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083889 "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 8 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083931
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083931"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083931 "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2083934
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2083934"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2083934 "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -9263,15 +10151,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -9297,15 +10185,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9331,17 +10219,953 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2090810
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2090810"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2090810 "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Ramipril + Amlodipina Krka 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2090830
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2090830"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2090830 "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Ramipril + Amlodipina Krka 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2090840
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2090840"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2090840 "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Ramipril + Amlodipina Krka 5 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2091070
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2091070"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2091070 "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Ramipril + Amlodipina Krka 10 mg + 10 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2093093
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Altensil 5 mg + 8 mg Cápsula Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2093093"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2093093 "Altensil 5 mg + 8 mg Cápsula Blister - 14 unidade(s)"
+
+* name = "Altensil 5 mg + 8 mg Cápsula Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2093094
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Altensil 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2093094"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2093094 "Altensil 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Altensil 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2093108
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Altensil 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2093108"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2093108 "Altensil 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Altensil 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2093129
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Altensil 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2093129"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2093129 "Altensil 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Altensil 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2093136
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Altensil 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2093136"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2093136 "Altensil 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Altensil 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2096910
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Tamayra 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2096910"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2096910 "Tamayra 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Tamayra 5 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2096911
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Tamayra 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2096911"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2096911 "Tamayra 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Tamayra 10 mg + 5 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2098638
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 2.5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2098638"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2098638 "Mepranil 2.5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Mepranil 2.5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 2.5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2098655
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2098655"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2098655 "Mepranil 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Mepranil 5 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2098676
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2098676"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2098676 "Mepranil 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Mepranil 10 mg + 5 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2098695
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 5 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2098695"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2098695 "Mepranil 5 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Mepranil 5 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2098716
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 10 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2098716"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2098716 "Mepranil 10 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Mepranil 10 mg + 10 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104075
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104075"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104075 "Bilamcar 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Bilamcar 5 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104076
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 5 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104076"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104076 "Bilamcar 5 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Bilamcar 5 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104085
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104085"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104085 "Bilamcar 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Bilamcar 10 mg + 8 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104090
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 10 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104090"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104090 "Bilamcar 10 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Bilamcar 10 mg + 8 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104097
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104097"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104097 "Bilamcar 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Bilamcar 5 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104098
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 5 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104098"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104098 "Bilamcar 5 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Bilamcar 5 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104101
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104101"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104101 "Bilamcar 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* name = "Bilamcar 10 mg + 16 mg Cápsula Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2104102
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Bilamcar 10 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2104102"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2104102 "Bilamcar 10 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+
+* name = "Bilamcar 10 mg + 16 mg Cápsula Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -9365,15 +11189,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9399,15 +11223,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -9433,15 +11257,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9467,15 +11291,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 20 'units'
 
@@ -9501,15 +11325,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9535,17 +11359,173 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2129739
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2129739"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2129739 "Carzap Am 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Carzap Am 5 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2129740
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2129740"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2129740 "Carzap Am 5 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+
+* name = "Carzap Am 5 mg + 16 mg Comprimido Blister - 28 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 28 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2129748
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 16 mg Comprimido Blister - 30 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2129748"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2129748 "Carzap Am 5 mg + 16 mg Comprimido Blister - 30 unidade(s)"
+
+* name = "Carzap Am 5 mg + 16 mg Comprimido Blister - 30 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 30 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2129749
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Carzap Am 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2129749"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2129749 "Carzap Am 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Carzap Am 5 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -9569,17 +11549,212 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 10 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2132413
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2132413"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2132413 "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2132414
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2132414"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2132414 "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2132432
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2132432"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2132432 "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2132433
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2132433"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2132433 "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* name = "Amlodipina + Candesartan Krka 10 mg + 16 mg Comprimido Blister - 56 unidade(s)"
+
+* medicineClassification.classification = #C09DB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Candesartan"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 56 'units'
+
+ 
+* definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
+
+ 
+* definitional.intendedRoute[Other][+].coding = pt-route-cs#48 "Via oral"
+
+Instance: pt-pmp-2138090
+//Instance: be-ampp-x
+InstanceOf: PTPackagedMedicinalProduct
+Title:   "Mepranil 2.5 mg + 5 mg Cápsula Blister - 14 unidade(s)"
+Usage:        #example
+* id = "pt-pmp-2138090"
+* intendedJurisdiction = urn:iso:std:iso:3166#PT
+
+* code.coding[ID] = #2138090 "Mepranil 2.5 mg + 5 mg Cápsula Blister - 14 unidade(s)"
+
+* name = "Mepranil 2.5 mg + 5 mg Cápsula Blister - 14 unidade(s)"
+
+* medicineClassification.classification = #C09BB07
+* medicineClassification.type = #ATC
+
+
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#12100 "Capsule"
+
+* definitional.doseForm.coding[Other] = pt-doseform-cs#29 "Cápsula"
+
+ 
+
+* definitional.ingredient[+].strengthQuantity = 2.5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.text = "Ramipril"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+ 
+
+* definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
+
+* packaging.extension[PackagingNr].valueQuantity  = 14 'units'
 
  
 * definitional.intendedRoute[EDQM][+].coding = edqm-route-cs#20053000 "Oral use"
@@ -9603,15 +11778,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 
@@ -9637,15 +11812,15 @@ Usage:        #example
 * medicineClassification.type = #ATC
 
 
-* definitional.doseForm.coding[EDQM] = #10219000 "Tablet"
+* definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10219000 "Tablet"
 
-* definitional.doseForm.coding[Other] = #271 "Comprimido"
+* definitional.doseForm.coding[Other] = pt-doseform-cs#271 "Comprimido"
 
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
-* definitional.ingredient.item.concept.text = "Amlodipina"
-* definitional.ingredient.type = pt-ingredient-type-cs#1
+* definitional.ingredient[=].item.concept.text = "Amlodipina"
+* definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
 * packaging.extension[PackagingNr].valueQuantity  = 60 'units'
 

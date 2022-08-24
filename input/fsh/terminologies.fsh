@@ -13,6 +13,12 @@ Description: "Lymph node terms that could not be found in standard sources such 
 * #271
     "Comprimido"
     "Comprimido"
+* #29 
+    "Cápsula"
+    "Cápsula"
+* #39 
+    "Comprimido revestido por película"
+    "Comprimido revestido por película"
 
 CodeSystem: PTROUTECS
 Id:         pt-route-cs
@@ -90,6 +96,34 @@ Title:     "Dose Form Ontology Code System"
       "Prolonged-release tablet"
     * ^property[+].code = #parent
     * ^property[=].valueCode = #10219000
+  * #10221000
+      "Film-coated tablet"
+      "Film-coated tablet"
+    * ^property[+].code = #parent
+    * ^property[=].valueCode = #10219000
+
+
+
+* ^hierarchyMeaning = #is-a
+* #12100
+    "Capsule"
+    "Capsule"
+  * ^property[+].code = #child
+  * ^property[=].valueCode = #10214000
+  * ^property[+].code = #child
+  * ^property[=].valueCode = #10211000 
+  * #10214000
+      "Chewable capsule, soft"
+      "Chewable capsule, soft"
+    * ^property[+].code = #parent
+    * ^property[=].valueCode = #10219000
+
+  * #10211000
+      "Capsule, soft"
+      "Capsule, soft"
+    * ^property[+].code = #parent
+    * ^property[=].valueCode = #10219000
+
 
 
 CodeSystem: EDQM-ROUTE-CS
@@ -114,6 +148,10 @@ Title:     "Dose Form Ontology Code System"
 * #20053000 
     "Oral use"
     "Oral use"
+
+
+
+
 
 
 
