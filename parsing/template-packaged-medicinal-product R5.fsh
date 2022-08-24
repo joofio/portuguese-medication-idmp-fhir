@@ -40,6 +40,7 @@ Usage:        #example
 {% for idx in range(0,row["DCIPT_descr_parse"].count(";")+1) %} 
 
 * definitional.ingredient[+].strengthQuantity = {{ row["numerator_value"].split(";")[idx] }} http://unitsofmeasure.org#{{ row["numerator_unit"].split(";")[idx] }}
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#{{ row["DCIPT_id_parse"].split(";")[idx] }}
 * definitional.ingredient[=].item.concept.text = "{{ row["DCIPT_descr_parse"].split(";")[idx] }}"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 {% endfor %}

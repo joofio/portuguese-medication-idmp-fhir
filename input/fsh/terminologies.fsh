@@ -43,9 +43,21 @@ Title:     ""
 Description: ""
 * ^url =  http://terminology.hl7.org/CodeSystem/lymphnodes
 
-* #1
-    "Amlodipina"
-    "Amlodipina"
+* #43
+  "Amlodipina"
+  "Amlodipina"
+* #39
+  "Atorvastatina"
+  "Atorvastatina"
+* #37
+  "Candesartan"
+  "Candesartan"
+* #42
+  "Ramipril"
+  "Ramipril"
+* #40
+  "Perindopril"
+  "Perindopril"
 
 CodeSystem: PTINGTYPECS
 Id:         pt-ingredient-type-cs
@@ -84,6 +96,10 @@ Title:     "Dose Form Ontology Code System"
   * ^property[=].valueCode = #10223000
   * ^property[+].code = #child
   * ^property[=].valueCode = #10226000
+  * ^property[+].code = #child
+  * ^property[=].valueCode = #10228000
+  * ^property[+].code = #child
+  * ^property[=].valueCode = #10220000
 
   * #10223000
       "Orodispersible tablet"
@@ -96,12 +112,24 @@ Title:     "Dose Form Ontology Code System"
       "Prolonged-release tablet"
     * ^property[+].code = #parent
     * ^property[=].valueCode = #10219000
-  * #10221000
-      "Film-coated tablet"
-      "Film-coated tablet"
+  
+
+  * #10228000
+      "Chewable tablet"
+      "Chewable tablet"
+    * ^property[+].code = #parent
+    * ^property[=].valueCode = #10219000
+  * #10220000
+      "Coated tablet"
+      "Coated tablet"
     * ^property[+].code = #parent
     * ^property[=].valueCode = #10219000
 
+    * #10221000
+      "Film-coated tablet"
+      "Film-coated tablet"
+      * ^property[+].code = #parent
+      * ^property[=].valueCode = #10220000
 
 
 * ^hierarchyMeaning = #is-a
@@ -109,22 +137,30 @@ Title:     "Dose Form Ontology Code System"
     "Capsule"
     "Capsule"
   * ^property[+].code = #child
-  * ^property[=].valueCode = #10214000
+  * ^property[=].valueCode = #10210000
   * ^property[+].code = #child
   * ^property[=].valueCode = #10211000 
-  * #10214000
-      "Chewable capsule, soft"
-      "Chewable capsule, soft"
+  * ^property[+].code = #child
+  * ^property[=].valueCode = #10214000 
+
+  * #10210000
+      "Capsule, hard"
+      "Capsule, hard"
     * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
+    * ^property[=].valueCode = #12100
 
   * #10211000
       "Capsule, soft"
       "Capsule, soft"
     * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
+    * ^property[=].valueCode = #12100
 
 
+  * #10214000
+    "Chewable capsule, soft"
+    "Chewable capsule, soft"
+    * ^property[+].code = #parent
+    * ^property[=].valueCode = #12100
 
 CodeSystem: EDQM-ROUTE-CS
 Id:         edqm-route-cs

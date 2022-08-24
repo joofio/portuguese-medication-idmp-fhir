@@ -22,6 +22,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -56,6 +57,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -90,6 +92,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -124,6 +127,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -158,6 +162,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -192,6 +197,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -226,6 +232,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -260,6 +267,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -294,6 +302,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -328,6 +337,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -362,6 +372,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -396,6 +407,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -430,6 +442,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -464,6 +477,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -498,6 +512,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -532,6 +547,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -566,6 +582,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -600,6 +617,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -634,6 +652,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -668,6 +687,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -702,6 +722,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -736,6 +757,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -770,6 +792,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -804,6 +827,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -838,6 +862,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -872,6 +897,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -906,6 +932,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -940,6 +967,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -974,6 +1002,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1008,6 +1037,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1042,6 +1072,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1076,6 +1107,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1110,6 +1142,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1144,6 +1177,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1178,6 +1212,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1212,6 +1247,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1246,6 +1282,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1280,6 +1317,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1314,6 +1352,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1348,6 +1387,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1382,6 +1422,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1416,6 +1457,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1450,6 +1492,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1484,6 +1527,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1518,6 +1562,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1552,6 +1597,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1586,6 +1632,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1620,6 +1667,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1654,6 +1702,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1688,6 +1737,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1722,6 +1772,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1756,6 +1807,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1790,6 +1842,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1824,6 +1877,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1858,6 +1912,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1892,6 +1947,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1926,6 +1982,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1960,6 +2017,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -1994,6 +2052,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2028,6 +2087,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2062,6 +2122,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2096,6 +2157,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2130,6 +2192,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2164,6 +2227,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2198,6 +2262,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2232,6 +2297,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2266,6 +2332,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2300,6 +2367,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2334,6 +2402,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2368,6 +2437,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2402,6 +2472,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2436,6 +2507,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2470,6 +2542,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2504,6 +2577,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2538,6 +2612,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2572,6 +2647,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2606,6 +2682,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2640,6 +2717,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2674,6 +2752,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2708,6 +2787,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2742,6 +2822,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2776,6 +2857,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2810,6 +2892,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2844,6 +2927,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2878,6 +2962,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2912,6 +2997,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2946,6 +3032,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -2980,6 +3067,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3014,6 +3102,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3048,6 +3137,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3082,6 +3172,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3116,6 +3207,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3150,6 +3242,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3184,6 +3277,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3218,6 +3312,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3252,6 +3347,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3286,6 +3382,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3320,6 +3417,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3354,6 +3452,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3388,6 +3487,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3422,6 +3522,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3456,6 +3557,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3490,6 +3592,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3524,6 +3627,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3558,6 +3662,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3592,6 +3697,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3626,6 +3732,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3660,6 +3767,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3694,6 +3802,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3728,6 +3837,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3762,6 +3872,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3796,6 +3907,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3830,6 +3942,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3864,6 +3977,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3898,6 +4012,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3932,6 +4047,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -3966,6 +4082,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4000,6 +4117,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4034,6 +4152,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4068,6 +4187,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4102,6 +4222,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4136,6 +4257,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4170,6 +4292,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4204,6 +4327,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4238,6 +4362,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4272,6 +4397,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4306,6 +4432,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4340,6 +4467,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4374,6 +4502,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4408,6 +4537,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4442,6 +4572,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4476,6 +4607,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4510,6 +4642,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4544,6 +4677,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4578,6 +4712,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4612,6 +4747,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4646,6 +4782,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4680,6 +4817,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4714,6 +4852,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4748,6 +4887,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4782,6 +4922,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4816,6 +4957,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4850,6 +4992,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4884,6 +5027,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4918,6 +5062,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4952,6 +5097,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -4986,6 +5132,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5020,6 +5167,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5054,6 +5202,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5088,6 +5237,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5122,6 +5272,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5156,6 +5307,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5190,6 +5342,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5224,6 +5377,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5258,6 +5412,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5292,6 +5447,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5326,6 +5482,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5360,6 +5517,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5394,6 +5552,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5428,6 +5587,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5462,6 +5622,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5496,6 +5657,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5530,6 +5692,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5564,6 +5727,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5598,6 +5762,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5632,6 +5797,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5666,6 +5832,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5700,6 +5867,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5734,6 +5902,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5768,6 +5937,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5802,6 +5972,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5836,6 +6007,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5870,6 +6042,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5904,6 +6077,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5938,6 +6112,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -5972,6 +6147,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6006,6 +6182,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6040,6 +6217,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6074,6 +6252,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6108,6 +6287,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6142,6 +6322,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6176,6 +6357,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6210,6 +6392,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6244,6 +6427,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6278,6 +6462,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6312,6 +6497,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6346,6 +6532,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6380,6 +6567,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6414,6 +6602,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6448,6 +6637,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6482,6 +6672,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6516,6 +6707,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6550,6 +6742,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6584,6 +6777,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6618,6 +6812,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6652,6 +6847,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6686,6 +6882,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6720,6 +6917,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6754,6 +6952,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6788,6 +6987,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6822,6 +7022,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6856,6 +7057,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6890,6 +7092,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6924,6 +7127,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6958,6 +7162,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -6992,6 +7197,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7026,6 +7232,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7060,6 +7267,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7094,6 +7302,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7128,6 +7337,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7162,6 +7372,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7196,6 +7407,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7230,6 +7442,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7264,6 +7477,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7298,6 +7512,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7332,6 +7547,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7366,6 +7582,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7400,6 +7617,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7434,6 +7652,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7468,6 +7687,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7502,6 +7722,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7536,6 +7757,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7570,6 +7792,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7604,6 +7827,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7638,6 +7862,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7672,6 +7897,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7706,6 +7932,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7740,6 +7967,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7774,6 +8002,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7808,6 +8037,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7842,6 +8072,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7876,6 +8107,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7910,6 +8142,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7944,6 +8177,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -7978,6 +8212,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8012,6 +8247,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8046,6 +8282,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8080,6 +8317,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8114,6 +8352,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8148,6 +8387,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8182,6 +8422,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8216,6 +8457,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8250,6 +8492,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8284,6 +8527,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8318,6 +8562,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8352,6 +8597,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8386,6 +8632,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8420,6 +8667,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8454,6 +8702,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8488,6 +8737,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8522,6 +8772,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8556,6 +8807,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8590,6 +8842,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8624,6 +8877,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8658,11 +8912,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8697,11 +8953,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8736,6 +8994,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8770,6 +9029,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8804,6 +9064,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8838,6 +9099,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8872,6 +9134,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8906,6 +9169,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8940,6 +9204,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -8974,6 +9239,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9008,6 +9274,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9042,6 +9309,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9076,6 +9344,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9110,6 +9379,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9144,6 +9414,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9178,11 +9449,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9217,11 +9490,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9256,11 +9531,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9295,11 +9572,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9334,16 +9613,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9378,16 +9660,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 40 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9422,16 +9707,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9466,16 +9754,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9510,16 +9801,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 20 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9554,6 +9848,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9588,6 +9883,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9622,11 +9918,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9661,11 +9959,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9700,6 +10000,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9734,6 +10035,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9768,6 +10070,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9802,16 +10105,19 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#39
 * definitional.ingredient[=].item.concept.text = "Atorvastatina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#40
 * definitional.ingredient[=].item.concept.text = "Perindopril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9846,11 +10152,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9885,11 +10193,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9924,11 +10234,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -9963,11 +10275,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10002,11 +10316,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10041,11 +10357,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10080,11 +10398,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10119,11 +10439,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10158,6 +10480,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10192,6 +10515,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10226,6 +10550,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10260,11 +10585,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10299,11 +10626,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10338,11 +10667,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10377,11 +10708,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10416,11 +10749,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10455,11 +10790,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10494,11 +10831,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10533,11 +10872,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10572,11 +10913,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10611,11 +10954,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10650,11 +10995,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10689,11 +11036,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 2.5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10728,11 +11077,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10767,11 +11118,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10806,11 +11159,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10845,11 +11200,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10884,11 +11241,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10923,11 +11282,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -10962,11 +11323,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11001,11 +11364,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 8 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11040,11 +11405,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11079,11 +11446,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11118,11 +11487,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11157,11 +11528,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11196,6 +11569,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11230,6 +11604,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11264,6 +11639,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11298,6 +11674,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11332,6 +11709,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11366,6 +11744,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11400,11 +11779,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11439,11 +11820,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11478,11 +11861,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11517,11 +11902,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11556,6 +11943,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11590,11 +11978,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11629,11 +12019,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11668,11 +12060,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11707,11 +12101,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 16 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#37
 * definitional.ingredient[=].item.concept.text = "Candesartan"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11746,11 +12142,13 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 2.5 http://unitsofmeasure.org#mg 
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#42
 * definitional.ingredient[=].item.concept.text = "Ramipril"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11785,6 +12183,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 5 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 
@@ -11819,6 +12218,7 @@ Usage:        #example
  
 
 * definitional.ingredient[+].strengthQuantity = 10 http://unitsofmeasure.org#mg
+* definitional.ingredient[=].item.concept.coding = PTINGITEMCS#43
 * definitional.ingredient[=].item.concept.text = "Amlodipina"
 * definitional.ingredient[=].type = pt-ingredient-type-cs#1
 

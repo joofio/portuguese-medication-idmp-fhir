@@ -13,7 +13,7 @@ Usage:        #example
 * definitional.doseForm.coding[Other] = pt-doseform-cs#271
 * definitional.doseForm.coding[EDQM] = EDQM-DOSEFORM-CS#10223000
 
-* definitional.ingredient.item.concept = pt-ingredient-item-cs#1
+* definitional.ingredient.item.concept = pt-ingredient-item-cs#43
 
 
 * definitional.ingredient.type = pt-ingredient-type-cs#1
