@@ -102,189 +102,6 @@ Title:     "Dose Form Ontology Code System"
     * ^property[+].code = #parent
     * ^property[=].valueCode = #12100
 
-
-* ^hierarchyMeaning = #is-a
-* #10502000 
-  "Cream"
-  "Cream"
-
-  * #14001000 
-    "Cream + pessary"
-    "Cream + pessary"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #10701000 
-    "Ear cream"
-    "Ear cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #10601000 
-    "Eye cream"
-    "Eye cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #10801000 
-    "Nasal cream"
-    "Nasal cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #10314010 
-    "Oromucosal cream"
-    "Oromucosal cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #11001000 
-    "Rectal cream"
-    "Rectal cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-  * #10901000 
-    "Vaginal cream"
-    "Vaginal cream"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10502000
-
-    * #10120000 
-    "Soluble tablet"
-    "Soluble tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10320000 
-    "Buccal tablet"
-    "Buccal tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-
-    * #50001000 
-    "Chewable/dispersible tablet"
-    "Chewable/dispersible tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10121000 
-    "Dispersible tablet"
-    "Dispersible tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10121500 
-    "Dispersible tablets for dose dispenser"
-    "Dispersible tablets for dose dispenser"
-        * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10222000 
-    "Effervescent tablet"
-    "Effervescent tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10913000 
-    "Effervescent vaginal tablet"
-    "Effervescent vaginal tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #50023700 
-    "Film-coated tablet and gastro-resistant granules in sachet"
-    "Film-coated tablet and gastro-resistant granules in sachet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10304000 
-    "Gargle, tablet for solution"
-    "Gargle, tablet for solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #11302000 
-    "Implantation tablet"
-    "Implantation tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #50030000 
-    "Inhalation powder, tablet"
-    "Inhalation powder, tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #50031000 
-    "Inhalation vapour, effervescent tablet"
-    "Inhalation vapour, effervescent tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #11115000 
-    "Inhalation vapour, tablet"
-    "Inhalation vapour, tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #11905000 
-    "Intrauterine tablet"
-    "Intrauterine tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10227000 
-    "Modified-release tablet"
-    "Modified-release tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10311000 
-    "Mouthwash, tablet for solution"
-    "Mouthwash, tablet for solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10319000 
-    "Muco-adhesive buccal tablet"
-    "Muco-adhesive buccal tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10318000 
-    "Sublingual tablet"
-    "Sublingual tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #50065000 
-    "Tablet and powder for oral solution"
-    "Tablet and powder for oral solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #50064000 
-    "Tablet and solvent for rectal suspension"
-    "Tablet and solvent for rectal suspension"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #13066000 
-    "Tablet for cutaneous solution"
-    "Tablet for cutaneous solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #11011000 
-    "Tablet for rectal solution"
-    "Tablet for rectal solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #11012000 
-    "Tablet for rectal suspension"
-    "Tablet for rectal suspension"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10908000 
-    "Tablet for vaginal solution"
-    "Tablet for vaginal solution"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #13118000 
-    "Tablet with sensor"
-    "Tablet with sensor"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-    * #10912000 
-    "Vaginal tablet"
-    "Vaginal tablet"
-    * ^property[+].code = #parent
-    * ^property[=].valueCode = #10219000
-
-
-
-
 * ^hierarchyMeaning = #is-a
 * #11201000
     "Solution for injection"
@@ -352,12 +169,18 @@ Title:     "Dose Form Ontology Code System"
 * #10314011 
   "Buccal film"
   "Buccal film"
-
+* ^hierarchyMeaning = #is-a
+* #10320000 
+  "Buccal tablet"
+  "Buccal tablet"
 * ^hierarchyMeaning = #is-a
 * #10209000 
   "Cachet"
   "Cachet"
-
+* ^hierarchyMeaning = #is-a
+* #50001000 
+  "Chewable/dispersible tablet"
+  "Chewable/dispersible tablet"
 * ^hierarchyMeaning = #is-a
 * #13046000 
   "Coated granules"
@@ -506,8 +329,14 @@ Title:     "Dose Form Ontology Code System"
 * #13004000 
   "Concentrate for suspension for injection"
   "Concentrate for suspension for injection"
-
-
+* ^hierarchyMeaning = #is-a
+* #10502000 
+  "Cream"
+  "Cream"
+* ^hierarchyMeaning = #is-a
+* #14001000 
+  "Cream + pessary"
+  "Cream + pessary"
 * ^hierarchyMeaning = #is-a
 * #10516000 
   "Cutaneous emulsion"
@@ -632,7 +461,14 @@ Title:     "Dose Form Ontology Code System"
 * #10530000 
   "Dip suspension"
   "Dip suspension"
-
+* ^hierarchyMeaning = #is-a
+* #10121000 
+  "Dispersible tablet"
+  "Dispersible tablet"
+* ^hierarchyMeaning = #is-a
+* #10121500 
+  "Dispersible tablets for dose dispenser"
+  "Dispersible tablets for dose dispenser"
 * ^hierarchyMeaning = #is-a
 * #13005000 
   "Dispersion for concentrate for dispersion for infusion"
@@ -650,7 +486,9 @@ Title:     "Dose Form Ontology Code System"
   "Dispersion for injection/infusion"
   "Dispersion for injection/infusion"
 * ^hierarchyMeaning = #is-a
-
+* #10701000 
+  "Ear cream"
+  "Ear cream"
 * ^hierarchyMeaning = #is-a
 * #17040 
   "Ear drops"
@@ -767,7 +605,14 @@ Title:     "Dose Form Ontology Code System"
 * #13119000 
   "Effervescent powder and powder for oral suspension"
   "Effervescent powder and powder for oral suspension"
-
+* ^hierarchyMeaning = #is-a
+* #10222000 
+  "Effervescent tablet"
+  "Effervescent tablet"
+* ^hierarchyMeaning = #is-a
+* #10913000 
+  "Effervescent vaginal tablet"
+  "Effervescent vaginal tablet"
 * ^hierarchyMeaning = #is-a
 * #13092000 
   "Emulsion and lyophilisate for suspension for injection"
@@ -852,7 +697,10 @@ Title:     "Dose Form Ontology Code System"
 * #13042000 
   "Epilesional solution"
   "Epilesional solution"
-
+* ^hierarchyMeaning = #is-a
+* #10601000 
+  "Eye cream"
+  "Eye cream"
 * ^hierarchyMeaning = #is-a
 * #16040 
   "Eye drops"
@@ -934,6 +782,10 @@ Title:     "Dose Form Ontology Code System"
   "Eye ointment in single-dose container"
   "Eye ointment in single-dose container"
 * ^hierarchyMeaning = #is-a
+* #50023700 
+  "Film-coated tablet and gastro-resistant granules in sachet"
+  "Film-coated tablet and gastro-resistant granules in sachet"
+* ^hierarchyMeaning = #is-a
 * #10301000 
   "Gargle"
   "Gargle"
@@ -941,7 +793,10 @@ Title:     "Dose Form Ontology Code System"
 * #10303000 
   "Gargle, powder for solution"
   "Gargle, powder for solution"
-
+* ^hierarchyMeaning = #is-a
+* #10304000 
+  "Gargle, tablet for solution"
+  "Gargle, tablet for solution"
 * ^hierarchyMeaning = #is-a
 * #50024000 
   "Gargle/mouthwash"
@@ -1142,7 +997,10 @@ Title:     "Dose Form Ontology Code System"
 * #11303500 
   "Implantation suspension"
   "Implantation suspension"
-
+* ^hierarchyMeaning = #is-a
+* #11302000 
+  "Implantation tablet"
+  "Implantation tablet"
 * ^hierarchyMeaning = #is-a
 * #10525000 
   "Impregnated dressing"
@@ -1171,7 +1029,10 @@ Title:     "Dose Form Ontology Code System"
 * #11111000 
   "Inhalation powder, pre-dispensed"
   "Inhalation powder, pre-dispensed"
-
+* ^hierarchyMeaning = #is-a
+* #50030000 
+  "Inhalation powder, tablet"
+  "Inhalation powder, tablet"
 * ^hierarchyMeaning = #is-a
 * #50081000 
   "Inhalation solution"
@@ -1184,7 +1045,10 @@ Title:     "Dose Form Ontology Code System"
 * #11113000 
   "Inhalation vapour, capsule"
   "Inhalation vapour, capsule"
-
+* ^hierarchyMeaning = #is-a
+* #50031000 
+  "Inhalation vapour, effervescent tablet"
+  "Inhalation vapour, effervescent tablet"
 * ^hierarchyMeaning = #is-a
 * #50032000 
   "Inhalation vapour, emulsion"
@@ -1213,7 +1077,14 @@ Title:     "Dose Form Ontology Code System"
 * #11114000 
   "Inhalation vapour, solution"
   "Inhalation vapour, solution"
-
+* ^hierarchyMeaning = #is-a
+* #11115000 
+  "Inhalation vapour, tablet"
+  "Inhalation vapour, tablet"
+* ^hierarchyMeaning = #is-a
+* #11905000 
+  "Intrauterine tablet"
+  "Intrauterine tablet"
 * ^hierarchyMeaning = #is-a
 * #22010 
   "Injection"
@@ -1394,7 +1265,10 @@ Title:     "Dose Form Ontology Code System"
 * #13135000 
   "Modified-release oral suspension"
   "Modified-release oral suspension"
-
+* ^hierarchyMeaning = #is-a
+* #10227000 
+  "Modified-release tablet"
+  "Modified-release tablet"
 * ^hierarchyMeaning = #is-a
 * #10310000 
   "Mouthwash"
@@ -1403,8 +1277,18 @@ Title:     "Dose Form Ontology Code System"
 * #50036050 
   "Mouthwash, powder for solution"
   "Mouthwash, powder for solution"
-
-
+* ^hierarchyMeaning = #is-a
+* #10311000 
+  "Mouthwash, tablet for solution"
+  "Mouthwash, tablet for solution"
+* ^hierarchyMeaning = #is-a
+* #10319000 
+  "Muco-adhesive buccal tablet"
+  "Muco-adhesive buccal tablet"
+* ^hierarchyMeaning = #is-a
+* #10801000 
+  "Nasal cream"
+  "Nasal cream"
 * ^hierarchyMeaning = #is-a
 * #18040 
   "Nasal drops"
@@ -1641,7 +1525,10 @@ Title:     "Dose Form Ontology Code System"
 * #10317000 
   "Oromucosal capsule"
   "Oromucosal capsule"
-
+* ^hierarchyMeaning = #is-a
+* #10314010 
+  "Oromucosal cream"
+  "Oromucosal cream"
 * ^hierarchyMeaning = #is-a
 * #10307000 
   "Oromucosal drops"
@@ -2222,7 +2109,10 @@ Title:     "Dose Form Ontology Code System"
 * #11014000 
   "Rectal capsule"
   "Rectal capsule"
-
+* ^hierarchyMeaning = #is-a
+* #11001000 
+  "Rectal cream"
+  "Rectal cream"
 * ^hierarchyMeaning = #is-a
 * #11007000 
   "Rectal emulsion"
@@ -2267,7 +2157,10 @@ Title:     "Dose Form Ontology Code System"
 * #10508000 
   "Shampoo"
   "Shampoo"
-
+* ^hierarchyMeaning = #is-a
+* #10120000 
+  "Soluble tablet"
+  "Soluble tablet"
 * ^hierarchyMeaning = #is-a
 * #50056600 
   "Solution and suspension for suspension for injection in pre-filled syringe"
@@ -2484,7 +2377,10 @@ Title:     "Dose Form Ontology Code System"
 * #10309300 
   "Sublingual spray, suspension"
   "Sublingual spray, suspension"
-
+* ^hierarchyMeaning = #is-a
+* #10318000 
+  "Sublingual tablet"
+  "Sublingual tablet"
 * ^hierarchyMeaning = #is-a
 * #11013000 
   "Suppository"
@@ -2565,7 +2461,34 @@ Title:     "Dose Form Ontology Code System"
 * #10546000 
   "Teat spray solution"
   "Teat spray solution"
-
+* ^hierarchyMeaning = #is-a
+* #50065000 
+  "Tablet and powder for oral solution"
+  "Tablet and powder for oral solution"
+* ^hierarchyMeaning = #is-a
+* #50064000 
+  "Tablet and solvent for rectal suspension"
+  "Tablet and solvent for rectal suspension"
+* ^hierarchyMeaning = #is-a
+* #13066000 
+  "Tablet for cutaneous solution"
+  "Tablet for cutaneous solution"
+* ^hierarchyMeaning = #is-a
+* #11011000 
+  "Tablet for rectal solution"
+  "Tablet for rectal solution"
+* ^hierarchyMeaning = #is-a
+* #11012000 
+  "Tablet for rectal suspension"
+  "Tablet for rectal suspension"
+* ^hierarchyMeaning = #is-a
+* #10908000 
+  "Tablet for vaginal solution"
+  "Tablet for vaginal solution"
+* ^hierarchyMeaning = #is-a
+* #13118000 
+  "Tablet with sensor"
+  "Tablet with sensor"
 * ^hierarchyMeaning = #is-a
 * #10409000 
   "Toothpaste"
@@ -2622,7 +2545,10 @@ Title:     "Dose Form Ontology Code System"
 * #10911000 
   "Vaginal capsule, soft"
   "Vaginal capsule, soft"
-
+* ^hierarchyMeaning = #is-a
+* #10901000 
+  "Vaginal cream"
+  "Vaginal cream"
 * ^hierarchyMeaning = #is-a
 * #10915000 
   "Vaginal delivery system"
@@ -2655,7 +2581,10 @@ Title:     "Dose Form Ontology Code System"
 * #10906000 
   "Vaginal suspension"
   "Vaginal suspension"
-
+* ^hierarchyMeaning = #is-a
+* #10912000 
+  "Vaginal tablet"
+  "Vaginal tablet"
 * ^hierarchyMeaning = #is-a
 * #12104000 
   "Wound stick"
