@@ -1,5 +1,5 @@
 {% for index,row in data.iterrows() %}
-{% if row["skip"] not in ('y', 'Y', 'x', 'X') %}
+{% if row["skip"] not in ['y', 'Y', 'x', 'X'] %}
 
 Instance: pt-pmp-{{ row["EMB_ID"] }}
 InstanceOf: PTPackagedMedicinalProduct

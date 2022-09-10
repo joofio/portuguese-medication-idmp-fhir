@@ -324,6 +324,3 @@ Title:     "Dose Form Ontology Code System"
 * #20087000 
   "Extrapleural use"
   "Injection of a medicinal product directly outside the pleural cavity, between the parietal pleura and the endothoracic fascia."
-* #20003000 
-  "Cutaneous use"
-  "Administration of a medicinal product to the skin and/or cutaneous wounds and/or nails and/or hair in order to obtain a local effect. "
